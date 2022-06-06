@@ -5,11 +5,6 @@ This app was written in Swift using ARKit and ARCore. [ARCore Cloud Anchors](htt
 
 This is not an official Google product, but an [AR Experiment](https://experiments.withgoogle.com/ar) that was developed at the Google Creative Lab in collaboration with [Uncorked Studios](https://www.uncorkedstudios.com/).
 
-Just a Line is also developed for Android. The open source code for Android can be found [here](https://github.com/googlecreativelab/justaline-android).
-
-[<img alt="Get it on Google Play" height="40px" src="https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" />](https://itunes.apple.com/us/app/just-a-line-draw-in-ar/id1367242427?ls=1&mt=8)
-
-
 ## Get started
 To build the project, first install all dependencies using [CocoaPods](https://guides.cocoapods.org/using/getting-started.html) by running
 
